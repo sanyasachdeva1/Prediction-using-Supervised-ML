@@ -5,7 +5,7 @@ Prediction using Supervised ML
 Task- Predict the percentage of an student based on the no. of study hours. This is a simple linear regression task as it involves just 2 variables.
 
 Steps- 
-1. Import the required librarires and Reading data from the given link. 
+1. Import the required libraries and Reading data from the given link. 
 2. Printing data and plotting the distribution of scores and hours on line plot. 
 3. Data Visualization and Preparing the data. 
 4. Training the Algorithm and Plotting the regression line and test data. 
